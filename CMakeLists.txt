@@ -22,6 +22,7 @@ qt_add_qml_module(appproto-game-jam-working
     QML_FILES
         Main.qml
         SOURCES game.h game.cpp
+        SOURCES cell.h cell.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

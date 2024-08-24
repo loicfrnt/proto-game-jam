@@ -14,6 +14,7 @@ Window {
             console.log('game sizeX', Game.sizeX)
             console.log('game sizeY', Game.sizeY)
         }
+
         columns: 3
         spacing: 10
         anchors.centerIn: parent
