@@ -1,5 +1,0 @@
-module proto-game-jam-working
-typeinfo appproto-game-jam-working.qmltypes
-prefer :/qt/qml/proto-game-jam-working/
-Main 1.0 Main.qml
-
