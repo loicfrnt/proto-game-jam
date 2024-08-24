@@ -1,0 +1,5 @@
+module proto-game-jam
+typeinfo appproto-game-jam.qmltypes
+prefer :/qt/qml/proto-game-jam/
+Main 1.0 Main.qml
+
