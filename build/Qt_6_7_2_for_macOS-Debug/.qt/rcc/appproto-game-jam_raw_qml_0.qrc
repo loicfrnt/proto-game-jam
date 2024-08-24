@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/proto-game-jam/">
-    <file alias="Main.qml">/Users/marcassin/taff/learning_QT/proto-game-jam/Main.qml</file>
-  </qresource>
-</RCC>
-
