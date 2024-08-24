@@ -9,7 +9,11 @@ find_package(Qt6 6.5 REQUIRED COMPONENTS Quick)
 qt_standard_project_setup(REQUIRES 6.5)
 
 qt_add_executable(appproto-game-jam-working
-    main.cpp
+    main.cpp game.h game.cpp
+)
+
+set_target_properties(appproto-game-jam-working PROPERTIES
+    AUTOMOC ON  # This ensures MOC is automatically handled
 )
 
 qt_add_qml_module(appproto-game-jam-working
@@ -17,6 +21,7 @@ qt_add_qml_module(appproto-game-jam-working
     VERSION 1.0
     QML_FILES
         Main.qml
+        SOURCES game.h game.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
