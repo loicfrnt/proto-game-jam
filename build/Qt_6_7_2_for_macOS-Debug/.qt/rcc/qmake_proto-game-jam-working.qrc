@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/proto-game-jam-working">
+    <file alias="qmldir">/Users/marcassin/taff/learning_QT/proto-game-jam-working/build/Qt_6_7_2_for_macOS-Debug/proto-game-jam-working/qmldir</file>
+  </qresource>
+</RCC>
+

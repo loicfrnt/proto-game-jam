@@ -1,0 +1,5 @@
+--resource
+/Users/marcassin/taff/learning_QT/proto-game-jam-working/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_proto-game-jam-working.qrc
+--resource
+/Users/marcassin/taff/learning_QT/proto-game-jam-working/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appproto-game-jam-working_raw_qml_0.qrc
+/qt/qml/proto-game-jam-working/Main.qml
