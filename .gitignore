@@ -1,6 +1,8 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
+.qtcreator
+
 *~
 *.autosave
 *.a
@@ -43,7 +45,7 @@ CMakeLists.txt.user*
 *.flc
 
 # Vim temporary files
-.*.swp
+.*.sw[ponm]
 
 # Visual Studio generated files
 *.ib_pdb_index
